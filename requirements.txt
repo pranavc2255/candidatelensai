@@ -1,0 +1,11 @@
+# deps that i use for this app (kept simple, versions loose on purpose)
+streamlit>=1.34
+plotly>=5.20
+pymupdf>=1.24
+sentence-transformers>=2.6
+transformers>=4.41
+rank-bm25>=0.2.2
+numpy>=1.26
+pandas>=2.2
+python-dotenv>=1.0
+requests>=2.31
